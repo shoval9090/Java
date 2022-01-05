@@ -14,9 +14,6 @@ public class Q_tirgol {
         System.out.println(doubleNum(n));
 
     }
-
-
-    // תרגול של שאלות מהט !!
     // כתבו פעולה המקבלת תור של מספרים שלמים. האיברים בתור לא ממוינים ויכולים להופיע כמה פעמים.
     //הפעולה תחזיר תור חדש הכולל רק את האיברים שמופיעים יותר מפעמיים.
     public static Queue doubleNum(Queue<Integer> q) {
